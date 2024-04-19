@@ -1,0 +1,38 @@
+Command: /home/users5/sah6489/526L/FinalProject/./simv -l FinalProjectTwoInputNeuralNetwork.log
+Chronologic VCS simulator copyright 1991-2023
+Contains Synopsys proprietary information.
+Compiler version U-2023.03-SP1_Full64; Runtime version U-2023.03-SP1_Full64;  Dec  2 21:32 2023
+VCD+ Writer U-2023.03-SP1_Full64 Copyright (c) 1991-2023 by Synopsys Inc.
+		 INDIVIUAL NEURON STAGE
+temp_total = 3.61, w1 = 0.00, w2 = 0.87, in1 = 2.00, in2 = 3.00
+TOTAL = -3.61
+		 INDIVIUAL NEURON STAGE
+temp_total = 3.58, w1 = 0.72, w2 = 0.38, in1 = 2.00, in2 = 3.00
+TOTAL = -3.58
+		 INDIVIDUAL NEURON STAGE
+temp_total = 2.03, w1 = 0.38, w2 = 0.65, in1 = 1.00, in2 = 1.00 
+TOTAL = -2.03
+		 EXPONENT BEFORE SIGMOID FORMULA IMPLEMENTATION
+EXPONENT = 0.0271 
+		 ACTIVATION STAGE OUTPUTS
+EXPONENT = 0.0271, BASE = 2.7183, OUT = 0.9737
+		 AFTER ACTIVATION STAGE
+EXPONENT = 0.0271, OUT = 0.9737, ACTIVATION = 1.0000
+		 EXPONENT BEFORE SIGMOID FORMULA IMPLEMENTATION
+EXPONENT = 0.0279 
+		 ACTIVATION STAGE OUTPUTS
+EXPONENT = 0.0279, BASE = 2.7183, OUT = 0.9729
+		 AFTER ACTIVATION STAGE
+EXPONENT = 0.0279, OUT = 0.9729, ACTIVATION = 1.0000
+		 EXPONENT BEFORE SIGMOID FORMULA IMPLEMENTATION
+EXPONENT = 0.1313 
+		 ACTIVATION STAGE OUTPUTS
+EXPONENT = 0.1313, BASE = 2.7183, OUT = 0.8839
+		 AFTER ACTIVATION STAGE
+EXPONENT = 0.1313, OUT = 0.8839, ACTIVATION = 1.0000
+$finish called from file "NeuralNetwork_tb.sv", line 50.
+$finish at simulation time                  100
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 100 ns
+CPU Time:      0.200 seconds;       Data structure size:   0.0Mb
+Sat Dec  2 21:32:36 2023
