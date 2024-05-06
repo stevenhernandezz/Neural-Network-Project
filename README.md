@@ -16,7 +16,7 @@
 
 
 ### Software
-* MobaXterm
+* https://mobaxterm.mobatek.net/
 
 ### Author
 * Steven Hernandez
